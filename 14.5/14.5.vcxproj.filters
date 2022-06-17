@@ -15,27 +15,27 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Lab13_2A\Lab13_2A\Func.cpp">
+    <ClCompile Include="Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Lab13_2A\Lab13_2A\Main.cpp">
+    <ClCompile Include="Func.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Lab13_2A\Lab13_2A\pbPlots.cpp">
+    <ClCompile Include="FuncInfo.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Lab13_2A\Lab13_2A\FuncInfo.cpp">
+    <ClCompile Include="pbPlots.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\Lab13_2A\Lab13_2A\supportLib.cpp">
+    <ClCompile Include="supportLib.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Lab13_2A\Lab13_2A\pbPlots.hpp">
+    <ClInclude Include="pbPlots.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\Lab13_2A\Lab13_2A\supportLib.hpp">
+    <ClInclude Include="supportLib.hpp">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
